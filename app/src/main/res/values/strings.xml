@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BullAndCows</string>
+    <string-array name="word">
+        <item>элемент</item>
+        <item>цемент</item>
+        <item>кабинет</item>
+        <item>кабан</item>
+        <item>насрал</item>
+        <item>карман</item>
+        <item>ц</item>
+        <item>гофер</item>
+    </string-array>
+</resources>
